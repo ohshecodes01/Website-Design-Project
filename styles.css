@@ -1,0 +1,76 @@
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.font-panel{
+    width: 45%;
+    display: inline-block;
+}
+
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.container{
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+
+.PaleVioletRed{
+    background-color: PaleVioletRed;
+    color: #fff;
+}
+
+.PapayaWhip {
+    background-color: #ffefd5;
+    color: black;
+}
+
+.PeachPuff {
+    background-color: #ffdab9;
+    color: #000
+}
+
+.Peru {
+    background-color: #cd853f;
+    color: #000;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold{
+    font-weight: 700;
+}
